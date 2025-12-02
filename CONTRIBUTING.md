@@ -66,7 +66,7 @@ git push origin fix-install-script
    - Link to related issues (e.g., "Resolves #42")
    - Include testing steps if applicable
 6. Mark as draft if not ready for review
-7. Assign reviewers and add labels (e.g., "bug fix", "enhancement")
+7. Request reviewers and suggest labels (e.g., "bug fix", "enhancement")
 
 **CI/CD Checks:**
 - If CI/CD is configured (check "Actions" tab), ensure all checks pass
