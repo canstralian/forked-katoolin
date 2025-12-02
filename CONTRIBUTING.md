@@ -10,11 +10,10 @@ The GitHub pull request flow is a collaborative process for proposing, reviewing
 
 - GitHub account and access to the repo (e.g., as owner or collaborator)
 - Local Git setup:
+
+  The main development happens in the forked repository (`https://github.com/canstralian/forked-katoolin.git`). If you want to contribute to this project, clone the forked repository:
   ```bash
   git clone https://github.com/canstralian/forked-katoolin.git
-  ```
-- Optionally, GitHub CLI (`gh`) or GitHub Desktop for easier management
-
 ### Step 1: Create a Branch
 
 Branches keep changes isolated from the main branch (usually `main` or `master`).
