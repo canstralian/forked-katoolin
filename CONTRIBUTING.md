@@ -147,6 +147,7 @@ When contributing to katoolin, please ensure:
 
 2. **Testing:**
    - Test on Ubuntu or compatible Linux distribution
+   - Ensure you are using **Python 2.7** (as required by this project). Note: Python 2.7 is deprecated and may not be available by default on modern systems. You may need to install it manually. See [Python 2.7 End of Life](https://www.python.org/doc/sunset-python-2/) for more information.
    - Verify package installation works correctly
    - Test both individual tool installation and bulk installation
 
