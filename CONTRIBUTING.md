@@ -83,7 +83,7 @@ git push origin fix-install-script
   ```bash
   git add .
   git commit -m "Add timeout handling per review feedback"
-  git push
+  git push origin fix-install-script
   ```
 - Use GitHub's suggestion feature to apply changes directly
 - Resolve conversation threads as issues are addressed
