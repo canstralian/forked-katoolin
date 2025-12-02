@@ -158,7 +158,7 @@ When contributing to katoolin, please ensure:
 4. **Security:**
    - Be cautious with repository management
    - Validate user input
-   - Follow the warning in README about repository removal
+   - Sanitize all inputs to prevent command injection vulnerabilities.
 
 ## Getting Help
 
