@@ -162,7 +162,8 @@ When contributing to katoolin, please ensure:
 
 ## Getting Help
 
-- **Questions?** Open an issue at https://github.com/canstralian/forked-katoolin/issues
+- **Questions or issues related to this fork?** Open an issue at [canstralian/forked-katoolin Issues](https://github.com/canstralian/forked-katoolin/issues)
+- **Issues that also affect the upstream project?** Consider reporting at [LionSec/katoolin Issues](https://github.com/LionSec/katoolin/issues) as well.
 - **Bugs?** Please include:
   - Your operating system and version
   - Python version
