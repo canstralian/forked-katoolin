@@ -132,7 +132,7 @@ git push
   git push origin --delete fix-install-script
   ```
 
-**For Fork Maintainers:**
+**For Contributors with Forks:**
 - Sync your fork with upstream periodically
 - Keep your main branch up to date
 
